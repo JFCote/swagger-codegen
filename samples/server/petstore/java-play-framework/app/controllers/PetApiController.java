@@ -4,6 +4,7 @@ import java.io.InputStream;
 import apimodels.ModelApiResponse;
 import apimodels.Pet;
 
+import java.io.File;
 import play.mvc.Controller;
 import play.mvc.Result;
 import play.mvc.Http;
